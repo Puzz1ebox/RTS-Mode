@@ -1,0 +1,14 @@
+{
+  "name": "RTS-Mode",
+  "version": "0.1.0",
+  "factorio_version": "2.1",
+  "title": "RTS Mode",
+  "author": "Puzz1ebox",
+  "homepage": "",
+  "license": "MIT",
+  "description": "Makes the game feel more like an RTS factory builder.",
+  "quality_required": false,
+  "dependencies": [
+    "base >= 2.1.0"
+  ]
+}
