@@ -6,7 +6,7 @@
   "author": "Puzz1ebox",
   "homepage": "",
   "license": "MIT",
-  "description": "Makes the game feel more like an RTS factory builder.",
+  "description": "Makes the game feel more like an RTS game.",
   "quality_required": false,
   "dependencies": [
     "base >= 2.1.0"
