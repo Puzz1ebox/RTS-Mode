@@ -1,4 +1,4 @@
-# RTS Mode
+# RTS Mode | Camera Adjustments
 
 This mod was designed to make the game feel more like an RTS factory builder.
 
@@ -9,3 +9,4 @@ It currently does:
    - Prevents player from building too close to enemy spawners
    - Prevents player from attacking enemy spawners with throwables
    - Converts any outstanding recipies that are craftable by a player, but not by nil, into recipies craftable by nil.
+   - Vehicles can still be entered.
