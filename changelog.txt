@@ -7,6 +7,6 @@ Date: 11JUL26
     - Removes initial cutscene (a bug arises if you do not)
     - Restricts building near enemy bases (adds a less intrusive message than the default)
     - Restricts attacking enemy bases with throwables (this was a big problem when I played with the cvar change for setting the player to nil)
-    - Converts any outstanding recipies that are craftable by a player, but not by nil, into recipies craftable by nil
+    - Converts any outstanding recipes that are craftable by a player, but not by nil, into recipes craftable by nil
     - Vehicles can still be entered.
 ---------------------------------------------------------------------------------------------------
